@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prabhjot Singh</h1>
 <h3 align="center">A passionate programmer, constantly striving towards improving myself</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **Data Science and Web Dev Projects**
 
