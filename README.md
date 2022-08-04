@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on **Data Science and Web Dev Projects**
+- 👯 I’m looking to collaborate on **Data Analysis Projects**
 
 - 📫 How to reach me **spjsingh179@gmail.com**
 
